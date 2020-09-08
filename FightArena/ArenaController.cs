@@ -124,6 +124,7 @@ namespace FightArena
 
             damageGiven - defenderHitPoints; //Takes attackers total damage given and minuesses with the defender hitpoints.
         }
+
         #region Determine winner
 
         #endregion
